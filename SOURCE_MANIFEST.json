@@ -1,0 +1,7 @@
+{
+  ".gitignore": "0c3381a1b5fa3e8e12f9f7b93ae3669f7da427d83197134c6e51cc5d1363d80d",
+  "LICENSE": "b7754b76677b21e84ad878ab7c5f17fdce37d1d6c37c18bbd46537e2078fc402",
+  "README.md": "56291bcbeb16efcec8d67680704067e434aaa39c6a652a27d934c931102f8bae",
+  "panel_bridge.py": "82ee109f00bfac3cbb156fdebd6a56bf294836865b53066765ff0f1264f4a124",
+  "test_panel_bridge.py": "e19d263a7f094afd02e8825a3f5d87254a282efff042caa1d6eb48143c605368"
+}
